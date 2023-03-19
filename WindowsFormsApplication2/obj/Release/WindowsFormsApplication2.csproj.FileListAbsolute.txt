@@ -1,0 +1,7 @@
+D:\4Story Source Code\Мои Tcd Редакторы\TPet\WindowsFormsApplication2\bin\Release\TPet Editor.exe
+D:\4Story Source Code\Мои Tcd Редакторы\TPet\WindowsFormsApplication2\bin\Release\TPet Editor.pdb
+D:\4Story Source Code\Мои Tcd Редакторы\TPet\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Form1.resources
+D:\4Story Source Code\Мои Tcd Редакторы\TPet\WindowsFormsApplication2\obj\Release\TPet_Editor.Properties.Resources.resources
+D:\4Story Source Code\Мои Tcd Редакторы\TPet\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.csproj.GenerateResource.Cache
+D:\4Story Source Code\Мои Tcd Редакторы\TPet\WindowsFormsApplication2\obj\Release\TPet Editor.exe
+D:\4Story Source Code\Мои Tcd Редакторы\TPet\WindowsFormsApplication2\obj\Release\TPet Editor.pdb
